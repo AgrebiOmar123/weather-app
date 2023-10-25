@@ -1,0 +1,12 @@
+.container{
+    box-shadow: 10px 5px 5px rgb(77, 76, 76);
+    background-color: bisque;
+}
+p{
+    color:rgb(32, 16, 206);
+    text-shadow: #FC0 1px 0 10px;
+}
+span{
+    color:rgb(6, 141, 69);
+    text-shadow: rgb(7, 6, 4) 1px 0 10px;
+}
